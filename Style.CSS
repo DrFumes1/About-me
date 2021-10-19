@@ -1,0 +1,19 @@
+body {
+    text-align: center;
+}
+.divline {
+    background-color: lightgreen;
+    width: 1000px;
+    height: 2px;
+    margin: 5px auto;
+}
+#games {
+    background-color: aquamarine;
+}
+#applabs {
+    background-color: blueviolet;
+}
+#chatbot {
+    background-color: blue;
+    
+}
